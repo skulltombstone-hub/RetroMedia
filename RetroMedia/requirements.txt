@@ -1,0 +1,7 @@
+customtkinter
+python-vlc
+pynput
+hidapi
+Pillow
+PyMuPDF
+mutagen
