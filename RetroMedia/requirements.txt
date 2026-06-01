@@ -1,7 +1,12 @@
 customtkinter
 python-vlc
+python-mpv
+pywinusb
 pynput
 hidapi
 Pillow
-PyMuPDF
 mutagen
+PyMuPDF
+opencv-python
+numpy
+sqlite-utils
